@@ -12,3 +12,4 @@ C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\ref
 C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.pdb
 C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.genruntimeconfig.cache
 C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\ref\almacenarEdad.dll
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.sourcelink.json

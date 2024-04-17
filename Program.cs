@@ -3,9 +3,10 @@
 
     //Declarar varibles
     static int edad, menor = 0, adulto = 0, adultoMayor = 0, incrementoEdades = 0, i;
-    static double sumaEdad = 0;
+    static float sumaEdad = 0;
     static int edadMaxima = int.MinValue; // Inicializar la edad máxima con el valor mínimo posible de un entero
     static int edadMinima = int.MaxValue; // Inicializar la edad mínima con el valor máximo posible de un entero
+    static bool esEdadValida = false;
 
 
     //============================= FUNCIONES ================================//
@@ -14,7 +15,7 @@
 
         //============================= CONDIONALES ================================//
 
-        if (edad >= 0 && edad <= 120)
+        if (edad > 0 && edad <= 120)
         {
             if (edad < 18)
             {
@@ -44,11 +45,13 @@
             {
                 edadMinima = edad;
             }
+            return true;
 
         }
         else
         {
-            Console.WriteLine("ERROR: Haz ingresado una edad inferior a '0' o superior a '120'.");
+            Console.WriteLine("\nERROR: Haz ingresado una edad inferior a '0' o superior a '120'.\n");
+            return false;
         }
 
     }
@@ -63,12 +66,16 @@
         //Bucle para preguntar la edad 10 veces
 
 
-        for (int i = 0; i < 10; i++)
+        while(i<10)
         {
             // Entradas
             Console.WriteLine("Ingresa la Edad: ");
             edad = int.Parse(Console.ReadLine());
-            ContadorEdad(edad);
+            
+            esEdadValida = ContadorEdad(edad);
+            if(esEdadValida) {
+                i++;
+            }
         }
 
         //Salidas
@@ -78,6 +85,7 @@
         Console.WriteLine("Edades mas baja: " + edadMinima);
         Console.WriteLine("Edade mas alta: " + edadMaxima);
         Console.WriteLine("Edades promedio: " + sumaEdad / incrementoEdades);
+        Console.WriteLine("Edades tenidas en cuenta: " + incrementoEdades);
     }
 
 }
