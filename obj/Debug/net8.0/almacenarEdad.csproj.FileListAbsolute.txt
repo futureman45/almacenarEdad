@@ -1,0 +1,14 @@
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.AssemblyInfoInputs.cache
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.AssemblyInfo.cs
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.csproj.CoreCompileInputs.cache
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\bin\Debug\net8.0\almacenarEdad.exe
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\bin\Debug\net8.0\almacenarEdad.deps.json
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\bin\Debug\net8.0\almacenarEdad.runtimeconfig.json
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\bin\Debug\net8.0\almacenarEdad.dll
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\bin\Debug\net8.0\almacenarEdad.pdb
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.dll
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\refint\almacenarEdad.dll
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.pdb
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\almacenarEdad.genruntimeconfig.cache
+C:\Users\stive\OneDrive\Documents\proyectosC#\almacenarEdad\obj\Debug\net8.0\ref\almacenarEdad.dll
